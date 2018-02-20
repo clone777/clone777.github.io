@@ -28,11 +28,11 @@ author:
   description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
   gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
-    linkedin:  
+    #linkedin:  
     github:    https://github.com/clone777
     # facebook:  <hide>
-    twitter:   
-    email:    
+    #twitter:   
+    # email:    
 
 # Navigation (2nd level links supported)
 nav:
@@ -45,7 +45,7 @@ nav:
   About:          
     - '/about/'
   Github Project: 
-    - 'https://clone777.github.io/'
+    - 'https://github.io/clone777'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
