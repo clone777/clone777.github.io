@@ -2,8 +2,8 @@
 title: 크리쳐킴의 블로그
 tagline: 'A Jekyll theme based on Lanyon'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
-baseurl: "/lanyon"
-url: http://clone777.github.io
+baseurl: ""
+url: https://clone777.github.io
 logo: '/public/logo.png'
 
 # Site configurations
@@ -45,7 +45,7 @@ nav:
   About:          
     - '/about/'
   Github Project: 
-    - 'http://clone777.github.io/'
+    - 'https://clone777.github.io/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
